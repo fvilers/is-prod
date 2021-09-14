@@ -1,11 +1,12 @@
 {
-  "name": "is-prod",
+  "name": "@fvilers/is-prod",
   "version": "0.0.0",
   "description": "An helper method that returns true if the process use the production environment",
   "main": "dist/is-prod.js",
   "types": "dist/is-prod.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
