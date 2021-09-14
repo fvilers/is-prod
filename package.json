@@ -1,6 +1,6 @@
 {
   "name": "@fvilers/is-prod",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An helper method that returns true if the process use the production environment",
   "main": "dist/is-prod.js",
   "types": "dist/is-prod.d.ts",
